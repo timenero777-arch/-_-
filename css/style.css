@@ -1,11 +1,11 @@
 /* ===== Variables ===== */
 :root {
-  --bg: #0c0b0a;
+  --bg:rgb(82, 65, 48);
   --bg-elevated: #141210;
   --bg-card: #1a1714;
-  --text: #f0ebe3;
+  --text:rgb(216, 45, 179);
   --text-muted: #9a9288;
-  --accent: #c9a227;
+  --accent:rgb(63, 48, 175);
   --accent-soft: rgba(201, 162, 39, 0.15);
   --accent-glow: rgba(201, 162, 39, 0.35);
   --border: rgba(240, 235, 227, 0.08);
@@ -46,7 +46,7 @@ a {
 }
 
 a:hover {
-  color: #e8c84a;
+  color:rgb(232, 74, 140);
 }
 
 img {
