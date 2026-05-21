@@ -2,10 +2,10 @@
 :root {
   --bg:rgb(82, 65, 48);
   --bg-elevated: #141210;
-  --bg-card: #1a1714;
-  --text:rgb(216, 45, 179);
+  --bg-card: #cf8336;
+  --text:rgb(134, 112, 130);
   --text-muted: #9a9288;
-  --accent:rgb(63, 48, 175);
+  --accent:rgb(75, 63, 168);
   --accent-soft: rgba(201, 162, 39, 0.15);
   --accent-glow: rgba(201, 162, 39, 0.35);
   --border: rgba(240, 235, 227, 0.08);
@@ -46,7 +46,7 @@ a {
 }
 
 a:hover {
-  color:rgb(232, 74, 140);
+  color:rgb(82, 57, 67);
 }
 
 img {
